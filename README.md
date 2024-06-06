@@ -2,11 +2,16 @@
 
 A tiny unicorn themed endless runner for the [Arduboy](https://www.arduboy.com)
 
-![Preview](./images/preview.gif "Unicorn Dash Preview")
+[![GitHub version](https://img.shields.io/github/release/KirillKorolkov/unicorn-dash.svg)](https://github.com/KirillKorolkov/unicorn-dash/releases)
+[![License](https://img.shields.io/github/license/KirillKorolkov/unicorn-dash.svg)](LICENSE.txt)
+
+# Screenshots
+
+![screenshot](./images/preview.gif "Unicorn Dash Preview")
 
 # Installation
 
-Compile it from source code and upload it to your Arduboy using Arduino IDE or download already precompiled [.hex](https://github.com/KirillKorolkov/unicorn-dash/releases/download/v0.9.5/unicorn_dash.hex) file
+Compile it from source code and upload it to your Arduboy using Arduino IDE or download an already precompiled [.hex](https://github.com/KirillKorolkov/unicorn-dash/releases/download/v0.9.5/unicorn_dash.hex) file
 
 ##### Dependencies
 
