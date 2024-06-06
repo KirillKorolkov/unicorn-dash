@@ -6,13 +6,13 @@ A tiny unicorn themed endless runner for the [Arduboy](https://www.arduboy.com)
 
 # Installation
 
-Compile it and upload it to your Arduboy using Arduino IDE
+Compile it from source code and upload it to your Arduboy using Arduino IDE or download already precompiled [.hex](https://github.com/KirillKorolkov/unicorn-dash/releases/download/v0.9.5/unicorn_dash.hex) file
 
-#### Dependencies
+##### Dependencies
 
 - [Arduboy2](https://github.com/MLXXXp/Arduboy2)
 - [Arduboy-TinyFont](https://github.com/BotiKis/Arduboy-TinyFont)
 
 # Note
 
-You can also play this game in your [browser](https://tiberiusbrown.github.io/Ardens/player.html?blah=https://global.discourse-cdn.com/business7/uploads/arduboy/original/2X/8/815db91de6f42a3034193211f553736d13678c98.hex&g=none&z=1&p=0&palette=highcontrast).
+You can also play this game in your [browser](https://tiberiusbrown.github.io/Ardens/player.html?blah=https://github.com/KirillKorolkov/unicorn-dash/releases/download/v0.9.5/unicorn_dash.hex&g=none&z=1&p=0&palette=highcontrast).
