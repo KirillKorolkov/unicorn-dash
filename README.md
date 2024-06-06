@@ -16,3 +16,7 @@ Compile it from source code and upload it to your Arduboy using Arduino IDE or d
 # Note
 
 You can also play this game in your [browser](https://tiberiusbrown.github.io/Ardens/player.html?blah=https://github.com/KirillKorolkov/unicorn-dash/releases/download/v0.9.5/unicorn_dash.hex&g=none&z=1&p=0&palette=highcontrast).
+
+# License
+
+Unicorn Dash is under [MIT license](./LICENSE)
