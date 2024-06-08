@@ -1,3 +1,5 @@
+![logo](./images/banner.png "Unicorn Dash logo")
+
 # Unicorn Dash
 
 A tiny unicorn themed endless runner for the [Arduboy](https://www.arduboy.com)
